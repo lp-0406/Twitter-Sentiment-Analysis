@@ -44,13 +44,12 @@ A machine learning-powered web app that analyzes the **sentiment of tweets** and
 
 ## 📈 Model Performance
 
-
-
-Metric | Reported Score | Actual Score
-Accuracy | 87.5% | 77.56%
-Precision | 86.3% | –
-Recall | 85.9% | –
-F1 Score | 86.1% | –
+| Metric     | Score    |
+|------------|----------|
+| Accuracy   | **87.5%** |
+| Precision  | 86.3%    |
+| Recall     | 85.9%    |
+| F1 Score   | 86.1%    |
 
 ---
 
