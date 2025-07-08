@@ -2,7 +2,6 @@
 
 A machine learning-powered web app that analyzes the **sentiment of tweets** and classifies them as **Positive** or **Negative**. Built using **Streamlit** and trained on real Twitter data.
 
----
 
 ## 🚀 Deployed App
 
