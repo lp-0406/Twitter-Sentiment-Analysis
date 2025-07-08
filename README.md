@@ -1,7 +1,13 @@
-
 # Twitter-Sentiment-Analysis
 
 A machine learning-powered web app that analyzes the **sentiment of tweets** and classifies them as **Positive** or **Negative**. Built using **Streamlit** and trained on real Twitter data.
+
+---
+
+## 🚀 Deployed App
+
+Access the live app here:  
+👉 [Twitter Sentiment Analysis - Streamlit](https://your-deployed-link.streamlit.app)
 
 ---
 
@@ -50,10 +56,3 @@ A machine learning-powered web app that analyzes the **sentiment of tweets** and
 | Precision  | 86.3%    |
 | Recall     | 85.9%    |
 | F1 Score   | 86.1%    |
-
----
-
-
-
-
-
