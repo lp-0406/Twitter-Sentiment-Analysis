@@ -8,13 +8,11 @@ A machine learning-powered web app that analyzes the **sentiment of tweets** and
 Access the live app here:  
 👉 [Twitter Sentiment Analysis - Streamlit](https://your-deployed-link.streamlit.app)
 
----
 
 ## Demo
 
 ![image](https://github.com/user-attachments/assets/73c71c24-2240-4388-af2c-893f43317091)
 
----
 
 ## Features
 
@@ -24,7 +22,6 @@ Access the live app here:
 - Uses machine learning for prediction
 - Visualizations for output interpretation
 
----
 
 ## Tech Stack
 
@@ -35,7 +32,6 @@ Access the live app here:
 - **Pickle** – model & vectorizer serialization
 - **Matplotlib**, **Seaborn** – visualization (if used)
 
----
 
 ## Model Details
 
@@ -45,7 +41,6 @@ Access the live app here:
 - **Classes:** Positive, Negative
 - **Train-Test Split:** 80% Training / 20% Testing
 
----
 
 ## 📈 Model Performance
 
