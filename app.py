@@ -1,9 +1,9 @@
 import streamlit as st
 import pickle
 import re
+import nltk
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.corpus import stopwords
-import nltk
 from twitter_client import fetch_user_tweets  # Now fetches from CSV
 
 # Download stopwords once
